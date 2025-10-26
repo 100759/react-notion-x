@@ -2,7 +2,7 @@
 // NOTE: rootNotionSpaceId is optional; set it to undefined if you don't want to
 // use it.
 export const rootNotionPageId = '2942d8331ef08068857ef9a9eb227a0'
-export const rootNotionSpaceId = 'undefined'
+export const rootNotionSpaceId = '4ac1b234-5af8-4783-92f4-579baa826df9'
 
 // NOTE: having this enabled can be pretty expensive as it re-generates preview
 // images each time a page is built. In a production setting, we recommend that
